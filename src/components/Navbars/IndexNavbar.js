@@ -92,7 +92,10 @@ function IndexNavbar() {
               </NavLink>
             </NavItem>
             <NavItem>
-              <NavLink href="#pablo" onClick={e => e.preventDefault()}>
+              <NavLink 
+                href="https://drive.google.com/file/d/1Ef6bKeBEnHesvAxbAViij80usapeACfv/view?usp=sharing"
+                nClick={e => e.preventDefault()}
+              >
                 Resume
               </NavLink>
             </NavItem>

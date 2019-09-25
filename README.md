@@ -115,8 +115,6 @@ paper-kit-react
     │   │   └── DemoFooter.js
     │   ├── Headers
     │   │   ├── IndexHeader.js
-    │   │   ├── LandingPageHeader.js
-    │   │   └── ProfilePageHeader.js
     │   └── Navbars
     │       └── IndexNavbar.js
     └── views
@@ -124,8 +122,6 @@ paper-kit-react
         ├── NucleoIcons.js
         ├── examples
         │   ├── LandingPage.js
-        │   ├── ProfilePage.js
-        │   └── RegisterPage.js
         └── index-sections
             ├── SectionButtons.js
             ├── SectionCarousel.js

@@ -42,9 +42,15 @@ function Index() {
       <IndexNavbar />
       <IndexHeader />
       <div className="main">
-        <SectionWorkExperience />
+        <div id="workexperience">
+        <SectionWorkExperience/>
+        </div>
+        <div id="propjects">
         <SectionProjects />
+        </div>
+        <div id="contactme">
         <SectionFooter />
+        </div>
       </div>
     </>
   );
