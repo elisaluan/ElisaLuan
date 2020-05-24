@@ -42,19 +42,19 @@ const Sticky = ({
                 </StyledBurger>
                 {isOpen ?
                     <BurgerList isBurger={isBurger} isOpen={isOpen}>
-                        <BurgerItem><a href="https://drive.google.com/file/d/1Ef6bKeBEnHesvAxbAViij80usapeACfv/view?usp=sharing">Resume</a></BurgerItem>
-                        <BurgerItem><i className="fa fa-linkedin"/></BurgerItem>
-                        <BurgerItem><i className="fa fa-github"/></BurgerItem>
-                        <BurgerItem><i className="fa fa-envelope-o"/></BurgerItem>
+                        <BurgerItem><a href="https://drive.google.com/file/d/1xRp21kQUa__FpLImwYiydHPS9ahv5usy/view?usp=sharing" target="_blank">Resume</a></BurgerItem>
+                        <BurgerItem><a href="https://www.linkedin.com/in/elisaluan/" target="_blank"><i className="fa fa-linkedin"/></a></BurgerItem>
+                        <BurgerItem><a href="https://github.com/elisaluan" target="_blank"><i className="fa fa-github"/></a></BurgerItem>
+                        <BurgerItem><a href="mailto:y9luan@uwaterloo.ca" target="_blank"><i className="fa fa-envelope-o"/></a></BurgerItem>
                     </BurgerList>
                 :<></>}
             </>
             :
             <NavList isBurger={isBurger} isOpen={isOpen}>
-                <NavItem><a href="https://drive.google.com/file/d/1Ef6bKeBEnHesvAxbAViij80usapeACfv/view?usp=sharing">Resume</a></NavItem>
-                <NavItem><i className="fa fa-linkedin"/></NavItem>
-                <NavItem><i className="fa fa-github"/></NavItem>
-                <NavItem><i className="fa fa-envelope-o"/></NavItem>
+                <NavItem><a href="https://drive.google.com/file/d/1xRp21kQUa__FpLImwYiydHPS9ahv5usy/view?usp=sharing" target="_blank">Resume</a></NavItem>
+                <NavItem><a href="https://www.linkedin.com/in/elisaluan/" target="_blank"><i className="fa fa-linkedin"/></a></NavItem>
+                <NavItem><a href="https://github.com/elisaluan" target="_blank"><i className="fa fa-github"/></a></NavItem>
+                <NavItem><a href="mailto:y9luan@uwaterloo.ca" target="_blank"><i className="fa fa-envelope-o"/></a></NavItem>
             </NavList>
             }
         </StickyContainer>
