@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/elisaluan.github.io/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/elisaluan.github.io/static/js/main.2b35f3cf.chunk.js",
+    "main.js.map": "/elisaluan.github.io/static/js/main.2b35f3cf.chunk.js.map",
+    "runtime-main.js": "/elisaluan.github.io/static/js/runtime-main.970cc2f7.js",
+    "runtime-main.js.map": "/elisaluan.github.io/static/js/runtime-main.970cc2f7.js.map",
+    "static/js/2.f2856372.chunk.js": "/elisaluan.github.io/static/js/2.f2856372.chunk.js",
+    "static/js/2.f2856372.chunk.js.map": "/elisaluan.github.io/static/js/2.f2856372.chunk.js.map",
+    "index.html": "/elisaluan.github.io/index.html",
+    "precache-manifest.a2a3c54290d9375e4043add2cb3743b9.js": "/elisaluan.github.io/precache-manifest.a2a3c54290d9375e4043add2cb3743b9.js",
+    "service-worker.js": "/elisaluan.github.io/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/elisaluan.github.io/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.f2856372.chunk.js.LICENSE.txt": "/elisaluan.github.io/static/js/2.f2856372.chunk.js.LICENSE.txt",
+    "static/media/Gloss_And_Bloom.ttf": "/elisaluan.github.io/static/media/Gloss_And_Bloom.34424cb4.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.970cc2f7.js",
+    "static/js/2.f2856372.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.2b35f3cf.chunk.js"
+  ]
+}
