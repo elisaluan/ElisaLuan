@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "495fee2daf236f8d43b729ec904dbebd",
+    "revision": "8b34ca538c9ec4a3d52b29418640c552",
     "url": "/elisaluan.github.io/index.html"
   },
   {
-    "revision": "b40b7e1663790b1cc2d0",
+    "revision": "7ff86debd24e667eb639",
     "url": "/elisaluan.github.io/static/css/main.5ecd60fb.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/elisaluan.github.io/static/js/2.f2856372.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b40b7e1663790b1cc2d0",
-    "url": "/elisaluan.github.io/static/js/main.2b35f3cf.chunk.js"
+    "revision": "7ff86debd24e667eb639",
+    "url": "/elisaluan.github.io/static/js/main.4e855c5b.chunk.js"
   },
   {
     "revision": "4c8fb017bf68eb12430d",

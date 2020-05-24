@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/elisaluan.github.io/precache-manifest.a2a3c54290d9375e4043add2cb3743b9.js"
+  "/elisaluan.github.io/precache-manifest.2514d65bd78dd2ac0fd1821050be7bdb.js"
 );
 
 self.addEventListener('message', (event) => {
